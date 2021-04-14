@@ -14,8 +14,8 @@ Things you may want to cover:
 * Ruby version
       2.6.3
 
-* System dependencies
-      gems:
+* System dependencies <br/>
+      gems: <br/>
        - turbolinks, <br/>
        - jquery-rails, <br/>
        - bcrypt, <br/>
