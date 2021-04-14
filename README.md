@@ -16,11 +16,11 @@ Things you may want to cover:
 
 * System dependencies
       gems:
-       - turbolinks,
-       - jquery-rails,
-       - bcrypt,
-       - semantic-ui-sass
-       - hirb <-- Not necessary but usefully tool for Rails console.
+       - turbolinks, <br/>
+       - jquery-rails, <br/>
+       - bcrypt, <br/>
+       - semantic-ui-sass, <br/>
+       - hirb <-- Not necessary but usefully tool for Rails console. <br/>
 
 * Configuration
 
